@@ -10,7 +10,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /*******************************************************
-One line description of what the class does
+This class parses the expression string recived from number 
+line and provides the numberline graph information back to
+NumberLine class to draw.
 @author Sibika Silwal
 @since 09/12/2021
 ******************************************************** */

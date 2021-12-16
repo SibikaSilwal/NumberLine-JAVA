@@ -29,10 +29,8 @@ public class ClickListener extends NumberLine{
 	
 	String mFeedBack;
 	
-	/*Expression received from NumberLine class*/
-	//String mExpression;
 
-	// *********************************************************
+	  // *********************************************************
     // ******************** Constructor ************************
     // *********************************************************
     public ClickListener(){
